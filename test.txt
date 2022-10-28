@@ -1,1 +1,3 @@
 Repository initialized!
+[color=rgb(0, 0, 0)][highlight=transparent]Test passed :)[/highlight][/color]
+[color=rgb(0, 0, 0)][highlight=transparent]
